@@ -1,0 +1,11 @@
+Api
+[{ "id" :1,
+"titulo" : "cazadores de sombras",
+"autor":"Cassandra clarie",
+"imagen" : "https://3.bp.blogspot.com/-glSJpWV8WXE/T-zbV_faB8I/AAAAAAAABIU/iKtaWKaY98I/s1600/Cazadores+de+Sombras+-+Ciudad+de+%25C3%2581ngeles+Ca%25C3%25ADdos.jpg"
+},
+{"id" :2,
+"titulo" : "Papelucho",
+"autor":"Marcela Paz",
+"imagen" : "https://3.bp.blogspot.com/-glSJpWV8WXE/T-zbV_faB8I/AAAAAAAABIU/iKtaWKaY98I/s1600/Cazadores+de+Sombras+-+Ciudad+de+%25C3%2581ngeles+Ca%25C3%25ADdos.jpg"
+}] 
