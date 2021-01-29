@@ -1,6 +1,10 @@
 {
 "Products" :
 [
+{ "id" :1,
+"titulo" : "cazadores de sombras",
+"autor":"Cassandra clarie",
+"imagen" : "https://3.bp.blogspot.com/-glSJpWV8WXE/T-zbV_faB8I/AAAAAAAABIU/iKtaWKaY98I/s1600/Cazadores+de+Sombras+-+Ciudad+de+%25C3%2581ngeles+Ca%25C3%25ADdos.jpg"
 { "id" : 1,
 "title" : "It (Eso)" ,
 "author": "Stephen King ",
@@ -9,6 +13,10 @@
 "synopsis": "Una de las novelas más ambiciosas de Stephen King, donde ha logrado perfeccionar las claves del género de terror. ¿Quién o qué mutila y mata a los niños de un pequeño pueblo norteamericano? ¿Por qué llega cíclicamente el horror a Derry en forma de un payaso siniestro que va sembrando la destrucción a su paso? Esto es lo que se proponen averiguar los protagonistas de esta novela. Tras veintisiete años de tranquilidad y lejanía una antigua promesa infantil les hace volver al lugar en el que vivieron su infancia y juventud como una terrible pesadilla. Regresan a Derry para enfrentarse con su pasado y enterrar definitivamente la amenaza que los amargó durante su niñez. Saben que pueden morir, pero son conscientes de que no conocerán la paz hasta que aquella cosa sea destruida para siempre." ,
 "pages": 1503
 },
+{"id" :2,
+"titulo" : "Papelucho",
+"autor":"Marcela Paz",
+"imagen" : "https://3.bp.blogspot.com/-glSJpWV8WXE/T-zbV_faB8I/AAAAAAAABIU/iKtaWKaY98I/s1600/Cazadores+de+Sombras+-+Ciudad+de+%25C3%2581ngeles+Ca%25C3%25ADdos.jpg"
 { "id" : 2,
 "title" : "Orgullo y Prejuicio" ,
 "author": "Jane Austen" ,
@@ -16,14 +24,6 @@
 "category": "Clasica" ,
 "synopsis": "Las cinco hermanas Bennet han sido criadas por una madre obsesionada por encontrarles marido. Pero una de ellas, Lizzie es inteligente y con carácter, desea una vida con perspectivas más abiertas, un anhelo respaldado por su padre. Cuando el señor Bingley, un soltero rico y su círculo de sofisticados amigos se instalan en una mansión vecina para pasar el verano, las Bennett se entusiasman con la posibilidad de encontrar pretendientes. En el baile de bienvenida, Lizzie conoce al apuesto y elegante señor Darcy, pero, a primera vista, le parece demasiado orgulloso y arrogante.",
 "pages": 448
-},
-{ "id" : 3,
-"title" : "El castillo ambulante" ,
-"author": "Diana Wynne Jones" ,
-"image" : "https://librosninja.com/wp-content/uploads/2019/08/el-castillo-ambulante.jpg",
-"category": "Fantasia" ,
-"synopsis": "Sophie es una joven de 18 años que trabaja sin descanso en la tienda de sombreros de la familia. En uno de sus frecuentes paseos conoce al enigmático mago Howl, lo que despierta la ira de la Bruja del Páramo, que odia a Howl con todas sus fuerzas. Cuando Sophie vuelve a la tienda, la Bruja se hace pasar por una clienta para acercarse a ella y lanzarle un hechizo… ¡que convierte a Sophie en una anciana de 90 años! Sophie, que no puede revelar su auténtica identidad, recurre a Howl para buscar una solución a su problema. Para ello se embarca en un viaje fantástico en el castillo ambulante del mago, habitado por personajes de lo más curioso. Sophie necesita ayuda pero quizás sea Howl el que realmente está en apuros.",
-"pages": 212
 }
 ] 
-}
+} 
